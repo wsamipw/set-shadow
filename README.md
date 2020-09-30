@@ -6,7 +6,7 @@ Get perfect shadows for your component.
 
 `npm i set-shadow`
 
-Then ...
+# Usage
 
 ```
 import { shadowizard } from 'set-shadow';
