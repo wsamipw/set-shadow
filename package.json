@@ -1,0 +1,22 @@
+{
+  "name": "set-shadow",
+  "version": "1.0.0",
+  "description": "Add shadows to components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsamipw/set-shadow.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Samip Subedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsamipw/set-shadow/issues"
+  },
+  "homepage": "https://github.com/wsamipw/set-shadow#readme"
+}
